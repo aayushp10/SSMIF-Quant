@@ -1,0 +1,74 @@
+openapi: 3.0.0
+info:
+    description: 'schema for rest docs'
+    license:
+        name: CC-BY-NC-ND-3.0
+    title: 'docs server'
+    version: 0.0.1
+paths:
+    /api/login:
+        post:
+            operationId: LoginLogin
+            responses:
+                '200':
+                    description: Ok
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/RestReturnObj'
+            description: ""
+            requestBody:
+                content:
+                    application/json:
+                        schema:
+                            $ref: '#/components/schemas/LoginData'
+                required: true
+    /hello:
+        get:
+            operationId: HelloHello
+            responses:
+                '200':
+                    description: Ok
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/RestReturnObj'
+            description: ""
+    /:
+        get:
+            operationId: IndexIndex
+            responses:
+                '200':
+                    description: Ok
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/RestReturnObj'
+            description: ""
+components:
+    schemas:
+        RestReturnObj:
+            description: ""
+            properties:
+                message:
+                    type: string
+                    description: ""
+                data:
+                    type: string
+                    description: ""
+            type: object
+            required:
+                - message
+        LoginData:
+            description: ""
+            properties:
+                usernameEmail:
+                    type: string
+                    description: ""
+                password:
+                    type: string
+                    description: ""
+            type: object
+            required:
+                - usernameEmail
+                - password
