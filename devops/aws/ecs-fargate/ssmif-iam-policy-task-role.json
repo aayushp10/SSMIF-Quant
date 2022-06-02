@@ -1,0 +1,27 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "elasticache:*",
+      "Resource": "*"
+    },
+    {
+      "Effect": "Allow",
+      "Action": "elasticmapreduce:*",
+      "Resource": "*"
+    },
+    {
+      "Effect": "Allow",
+      "Action": "s3:*",
+      "Resource": [
+        "arn:aws:s3:::ssmif-reports",
+        "arn:aws:s3:::ssmif-reports/*",
+        "arn:aws:s3:::factor-model-data",
+        "arn:aws:s3:::factor-model-data/*",
+        "arn:aws:s3:::factor-model-spark",
+        "arn:aws:s3:::factor-model-spark/*"
+      ]
+    }
+  ]
+}

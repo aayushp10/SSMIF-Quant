@@ -1,0 +1,55 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "ecr:GetAuthorizationToken",
+        "ecr:BatchCheckLayerAvailability",
+        "ecr:GetDownloadUrlForLayer",
+        "ecr:BatchGetImage"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "secretsmanager:GetSecretValue",
+        "kms:Decrypt"
+      ],
+      "Resource": [
+        "arn:aws:secretsmanager:us-east-1:774311540350:secret:MAIN_DB_CONNECTION_URI-JCu4OT",
+        "arn:aws:secretsmanager:us-east-1:774311540350:secret:TICKER_DB_CONNECTION_URI-M1YwOj",
+        "arn:aws:secretsmanager:us-east-1:774311540350:secret:CACHE_CONNECTION_URI-bg94hY",
+        "arn:aws:secretsmanager:us-east-1:774311540350:secret:SECRET_KEY-xk6V7G",
+        "arn:aws:secretsmanager:us-east-1:774311540350:secret:RECAPTCHA_SECRET-WONUfB",
+        "arn:aws:secretsmanager:us-east-1:774311540350:secret:AWS_CONSOLE_PASSWORD-9Jrpcy"
+      ]
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "logs:CreateLogStream",
+        "logs:PutLogEvents"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Effect": "Allow",
+      "Action": "elasticmapreduce:*",
+      "Resource": "*"
+    },
+    {
+      "Effect": "Allow",
+      "Action": "s3:*",
+      "Resource": [
+        "arn:aws:s3:::ssmif-reports",
+        "arn:aws:s3:::ssmif-reports/*",
+        "arn:aws:s3:::factor-model-data",
+        "arn:aws:s3:::factor-model-data/*",
+        "arn:aws:s3:::factor-model-spark",
+        "arn:aws:s3:::factor-model-spark/*"
+      ]
+    }
+  ]
+}

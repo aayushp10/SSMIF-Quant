@@ -1,0 +1,3 @@
+# aws
+
+> configuration, scripts, setup

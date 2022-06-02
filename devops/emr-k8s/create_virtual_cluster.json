@@ -1,0 +1,12 @@
+{
+    "name": "spark", 
+    "containerProvider": {
+        "type": "EKS", 
+        "id": "ssmif-eks", 
+        "info": {
+            "eksInfo": {
+                "namespace": "spark"
+            }
+        }
+    }
+}

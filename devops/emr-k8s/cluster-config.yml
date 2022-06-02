@@ -1,0 +1,55 @@
+# cluster config
+---
+apiVersion: eksctl.io/v1alpha5
+kind: ClusterConfig
+
+metadata:
+  name: ssmif-eks
+  region: us-east-1
+
+iam:
+  withOIDC: true
+  serviceRoleARN: arn:aws:iam::774311540350:role/ssmif-eks-role
+  fargatePodExecutionRoleARN: arn:aws:iam::774311540350:role/ssmif-eks-fargate-pod
+
+vpc:
+  id: "vpc-babe1ac7"
+  subnets:
+    public:
+      us-east-1a:
+        id: "subnet-f6f0a8bb"
+      us-east-1b:
+        id: "subnet-5d1c8902"
+      us-east-1c:
+        id: "subnet-5d44cc3b"
+      us-east-1d:
+        id: "subnet-5fdf497e"
+      us-east-1f:
+        id: "subnet-13b5f71d"
+    private:
+      ssmif-private:
+        id: "subnet-04c8f84144d72979e"
+      ssmif-private-2:
+        id: "subnet-0cb45f3855ee77a64"
+
+secretsEncryption:
+  keyARN: arn:aws:kms:us-east-1:774311540350:key/b7487c82-bbab-43a9-8500-ffd8af3132d6
+
+# you can add gpu support using non-fargate node groups
+nodeGroups:
+  - name: spark-node
+    minSize: 1
+    maxSize: 4
+    desiredCapacity: 1
+    volumeSize: 20
+    ssh:
+      allow: true
+      publicKeyName: ssmif-spark-eks
+    instanceType: t3.small
+
+fargateProfiles:
+  - name: fargate
+    selectors:
+      - namespace: default
+      - namespace: kube-system
+      - namespace: spark

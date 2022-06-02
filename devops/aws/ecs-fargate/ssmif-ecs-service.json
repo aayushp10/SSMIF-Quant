@@ -1,0 +1,49 @@
+{
+  "cluster": "ssmif-ecs",
+  "serviceName": "ssmif-ecs-service",
+  "taskDefinition": "ssmif-ecs-task:71",
+  "loadBalancers": [
+    {
+      "targetGroupArn": "arn:aws:elasticloadbalancing:us-east-1:774311540350:targetgroup/ssmif-bailey-api/03595b537bc41188",
+      "containerName": "bailey-api",
+      "containerPort": 8080
+    },
+    {
+      "targetGroupArn": "arn:aws:elasticloadbalancing:us-east-1:774311540350:targetgroup/ssmif-bailey-frontend/38a14946e7b88111",
+      "containerName": "bailey-frontend",
+      "containerPort": 8000
+    }
+  ],
+  "serviceRegistries": [],
+  "desiredCount": 1,
+  "clientToken": "",
+  "launchType": "FARGATE",
+  "capacityProviderStrategy": [],
+  "role": "",
+  "deploymentConfiguration": {
+    "maximumPercent": 200,
+    "minimumHealthyPercent": 100
+  },
+  "placementConstraints": [],
+  "networkConfiguration": {
+    "awsvpcConfiguration": {
+      "subnets": [
+        "subnet-5d44cc3b",
+        "subnet-13b5f71d",
+        "subnet-5d1c8902",
+        "subnet-c7835cf6",
+        "subnet-f6f0a8bb",
+        "subnet-5fdf497e"
+      ],
+      "securityGroups": [
+        "sg-08f2e1c211a232a3f"
+      ],
+      "assignPublicIp": "ENABLED"
+    }
+  },
+  "healthCheckGracePeriodSeconds": 60,
+  "schedulingStrategy": "REPLICA",
+  "deploymentController": {
+    "type": "ECS"
+  }
+}
