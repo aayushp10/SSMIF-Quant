@@ -1,0 +1,39 @@
+{
+  "name": "ssmif",
+  "version": "0.0.1",
+  "description": "ssmif quant team source",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^26.0.19",
+    "husky": "^4.3.6",
+    "npm-check-updates": "^10.2.5"
+  },
+  "husky": {
+    "hooks": {
+      "post-checkout": "echo $HUSKY_GIT_STDIN | scripts/lfs-hooks/post-checkout $HUSKY_GIT_PARAMS",
+      "post-commit": "echo $HUSKY_GIT_STDIN | scripts/lfs-hooks/post-commit $HUSKY_GIT_PARAMS",
+      "post-merge": "echo $HUSKY_GIT_STDIN | scripts/lfs-hooks/post-merge $HUSKY_GIT_PARAMS",
+      "pre-push": "echo $HUSKY_GIT_STDIN | scripts/lfs-hooks/pre-push $HUSKY_GIT_PARAMS",
+      "pre-commit": "./precommit.sh"
+    }
+  },
+  "scripts": {
+    "preinstall": "rm -rf .git/hooks && echo \"removed git hooks to allow for husky to install correctly\"",
+    "lfs-fetch": "git lfs fetch --all && git lfs pull",
+    "watch": "cd vscode && npm run watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSMIF-Quant/quant.git"
+  },
+  "keywords": [
+    "quant"
+  ],
+  "author": "ssmif",
+  "license": "CC-BY-NC-ND-3.0",
+  "bugs": {
+    "url": "https://github.com/SSMIF-Quant/quant/issues"
+  },
+  "homepage": "https://github.com/SSMIF-Quant/quant#readme"
+}

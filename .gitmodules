@@ -1,0 +1,4 @@
+# modules info
+[submodule "devops/terraform/delete_vpc"]
+	path = devops/terraform/delete_vpc
+	url = git@github.com:lianghong/delete_vpc.git
