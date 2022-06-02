@@ -1,0 +1,132 @@
+tech:
+  window:
+    start_date: 2020-01-01
+    end_date: 2020-03-03
+  bloomberg_data:
+    XLK US Equity:
+      output_basename: None # not required, will require more work from you if you use it
+      cols: 
+        - PX_LAST
+        - PUT_CALL_OPEN_INTEREST_RATIO
+        - PX_VOLUME
+      col_map:
+        - old_key: PX_LAST
+          new_key: target
+  # yf_data:
+  #   MSFT:
+  #     cols: Adj Close
+  #     path_override: []
+  #     col_map:
+  #       - old_key: Adj Close
+  #         new_key: MSFT
+  #   TSLA:
+  #     cols: Adj Close
+  #     path_override: []
+  #     col_map:
+  #       - old_key: Adj Close
+  #         new_key: TSLA
+  additional: 
+    api_stuff: # This is just a unique name given to the data
+      input_path: "path.csv" #cols = AD_API_STUFF_COLNAME1, AD_API_STUFF_COL2, ...
+      cols: [] # if empty (or None) default to using all of the columns in the csv
+      col_map:
+        - old_key: PX_LAST
+          new_key: target
+    cool_beans:
+      input_path: "path.csv" #cols = AD_API_STUFF_COLNAME1, AD_API_STUFF_COL2, ...
+      col_map:
+        - old_key: PX_LAST
+          new_key: target
+    additional_data:
+      input_path: "path.csv" #cols = AD_API_STUFF_COLNAME1, AD_API_STUFF_COL2, ...
+      col_map:
+        - old_key: PX_LAST
+          new_key: target
+
+  operations:
+    - output_columns:
+        - LAST/VOL # we prepend GEN_
+      operation: take_ratio
+      input_columns:
+        - target
+        - PX_VOLUME
+      arguments: []
+      remove: []
+    - output_columns: LAG_PC
+      operation: lag_column
+      input_columns:
+        - source: bloomberg
+          ticker: XLK US EQUITY
+          col_name: PX_LAST
+        - source: bloomberg
+          ticker: XLK US EQUITY
+          col_name: PX_LAST
+      arguments:
+        lag: 3
+      remove:
+        - PX_VOLUME
+    - output_columns: MSFT/TSLA
+      operation: take_ratio
+      input_columns:
+        - MSFT
+        - TSLA
+      arguments: []
+      remove: []
+    - output_columns: AAYUSH_API_CALCS
+      operation: take_ratio
+      input_columns:
+        - source: additional
+          ticker: 'api stuff'
+          colname:  colname1
+        - source: additional
+          ticker: 'cool beans'
+          colname: colname1
+        - source: bloomberg
+          ticker: 'XLK US EQUITY'
+          colname: PUT_CALL_OPEN_INTEREST_RATIO
+      arguments: []
+      remove: []
+  models:
+    linear:
+      target:
+        source: operations
+        ticker: ''
+        col_name: LAST/VOL  # we prepend GEN_
+      predictors:
+        - source: bloomberg
+          ticker: XLK # BB_XLK_PUT_CALL_OPEN_INTEREST_RATIO
+          col_name: PUT_CALL_OPEN_INTEREST_RATIO
+        - source: bloomberg
+          ticker: XLK US EQUITY
+          col_name: PX_LAST
+      window_override: 
+        start_date: 2020-01-01
+        end_date: 2020-05-05
+      hyperparams:
+        fit_intercept: True
+        normalize: False
+        n_jobs: -1
+    # forest:
+    #   target: target
+    #   predictors: 
+    #     - PX_LAST
+    #     - PUT_CALL_OPEN_INTEREST_RATIO
+    #     - PX_VOLUME
+    #   window_override: 
+    #       start_date: 2020-01-01
+    #       end_date: 2020-05-05
+    #   hyperparams:
+    #     fit_intercept: True
+    #     normalize: False
+    # arima:
+    #   target: target
+    #   predictors: 
+    #     - PX_LAST
+    #     - PUT_CALL_OPEN_INTEREST_RATIO
+    #     - PX_VOLUME
+    #   window_override: 
+    #       start_date: 2020-01-01
+    #       end_date: 2020-05-05
+    #   hyperparams:
+    #     fit_intercept: True
+    #     normalize: False

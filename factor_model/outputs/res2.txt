@@ -1,0 +1,1478 @@
+2021-03-20 20:45:57.482 | INFO     | classes.read_config:read_config:98 - 
+
+project: test project
+
+2021-03-20 20:45:57.484 | INFO     | classes.read_config:read_config:106 - 
+
+sector: tech
+
+2021-03-20 20:45:57.484 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.510 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.510 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.511 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.511 | INFO     | classes.read_config:read_config:106 - 
+
+sector: fin
+
+2021-03-20 20:45:57.511 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.536 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.536 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.536 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.536 | INFO     | classes.read_config:read_config:106 - 
+
+sector: eng
+
+2021-03-20 20:45:57.537 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.560 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.561 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.561 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.561 | INFO     | classes.read_config:read_config:106 - 
+
+sector: hlth
+
+2021-03-20 20:45:57.561 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.584 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.585 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.585 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.585 | INFO     | classes.read_config:read_config:106 - 
+
+sector: cons
+
+2021-03-20 20:45:57.585 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.609 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.609 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.609 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.610 | INFO     | classes.read_config:read_config:106 - 
+
+sector: cond
+
+2021-03-20 20:45:57.610 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.633 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.633 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.634 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.634 | INFO     | classes.read_config:read_config:106 - 
+
+sector: indu
+
+2021-03-20 20:45:57.634 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.658 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.658 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.659 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.659 | INFO     | classes.read_config:read_config:106 - 
+
+sector: util
+
+2021-03-20 20:45:57.659 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.682 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.683 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.683 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.683 | INFO     | classes.read_config:read_config:106 - 
+
+sector: tels
+
+2021-03-20 20:45:57.683 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.707 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.708 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.708 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.708 | INFO     | classes.read_config:read_config:106 - 
+
+sector: matr
+
+2021-03-20 20:45:57.709 | INFO     | classes.read_config:read_config:107 - Loading Bloomberg Data
+2021-03-20 20:45:57.732 | INFO     | classes.read_config:read_config:126 - Loading Additional Data
+2021-03-20 20:45:57.733 | INFO     | classes.read_config:read_config:133 - Instantiating Operations
+2021-03-20 20:45:57.733 | INFO     | classes.read_config:read_config:143 - Instantiating Models
+2021-03-20 20:45:57.741 | INFO     | __main__:main:70 - Cleaning data
+2021-03-20 20:45:58.809 | INFO     | __main__:main:93 - ON REBALANCE ITERATION : 0
+2021-03-20 20:45:58.810 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:45:58.835 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5inft_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                          11.820000  ...                  0.664500
+2015-01-02                          11.850000  ...                  0.664700
+2015-01-03                          11.843333  ...                  0.662067
+2015-01-04                          11.836667  ...                  0.659433
+2015-01-05                          11.830000  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:45:58.836 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:45:58.845 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:45:58.845 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:45:58.857 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.9265008789014284
+2021-03-20 20:45:58.860 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 5.904244948299685
+2021-03-20 20:45:58.861 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:45:58.861 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:45:58.862 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:45:58.862 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:00.026 | SUCCESS  | train.random_forest_regression:train_model:69 - score : 0.9727750527392115
+2021-03-20 20:46:00.091 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 1.3483355466717892
+2021-03-20 20:46:00.119 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:00.119 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:00.120 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+2021-03-20 20:46:00.714 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.9051346934295237
+2021-03-20 20:46:00.717 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 25.484255301074008
+2021-03-20 20:46:00.728 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:00.729 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:00.734 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:00.805 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:00.810 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:00.815 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:00.884 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:00.889 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:00.895 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:00.963 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:00.968 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:00.973 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:01.060 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:01.064 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:01.070 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:01.141 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:01.145 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:01.150 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:01.219 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:01.223 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:01.229 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:01.299 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:01.306 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:01.313 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:01.391 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:01.399 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:01.406 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:01.521 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:01.528 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:01.543 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:01.612 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:01.616 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:01.620 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:01.664 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:01.668 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:01.672 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:01.717 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:01.721 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:01.725 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:01.769 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:01.773 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:01.777 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:01.825 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:01.830 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:01.836 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:01.888 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:01.892 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:01.896 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:01.942 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:01.946 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:01.950 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:01.995 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:01.999 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:02.003 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:02.048 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:02.052 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:02.057 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:02.101 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:02.105 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:02.109 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:02.153 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:02.157 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:02.161 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:02.206 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:02.211 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:02.215 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:02.259 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:02.263 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:02.267 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:02.310 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:02.314 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:02.319 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:02.362 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:02.367 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:02.370 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:02.416 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:02.420 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:02.424 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:02.467 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:02.471 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:02.475 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:02.519 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:02.523 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:02.526 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:02.571 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:02.575 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:02.579 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:02.623 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:02.627 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:02.631 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:02.722 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:02.726 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:02.730 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:02.775 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:02.779 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:46:02.797 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5finl_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                           8.490000  ...                  0.664500
+2015-01-02                           8.490000  ...                  0.664700
+2015-01-03                           8.493333  ...                  0.662067
+2015-01-04                           8.496667  ...                  0.659433
+2015-01-05                           8.500000  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:46:02.798 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:46:02.806 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:46:02.806 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:46:02.818 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.9193988974661814
+2021-03-20 20:46:02.822 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 0.7214555882776054
+2021-03-20 20:46:02.822 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:46:02.823 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:46:02.823 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:46:02.823 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:03.557 | SUCCESS  | train.random_forest_regression:train_model:69 - score : 0.5632357954922622
+2021-03-20 20:46:03.601 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 3.8893097958816454
+2021-03-20 20:46:03.629 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:03.629 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:03.629 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+2021-03-20 20:46:03.933 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.8575651367378205
+2021-03-20 20:46:03.934 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 4.699908870696902
+2021-03-20 20:46:03.945 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:03.946 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:03.951 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:03.997 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:04.001 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:04.005 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:04.050 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:04.054 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:04.058 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:04.103 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:04.107 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:04.111 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:04.155 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:04.159 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:04.163 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:04.208 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:04.212 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:04.216 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:04.259 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:04.263 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:04.267 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:04.312 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:04.316 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:04.320 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:04.364 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:04.368 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:04.372 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:04.416 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:04.420 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:04.424 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:04.470 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:04.474 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:04.479 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:04.527 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:04.530 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:04.535 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:04.580 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:04.584 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:04.588 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:04.650 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:04.655 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:04.661 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:04.741 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:04.749 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:04.757 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:04.836 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:04.843 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:04.851 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:04.922 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:04.929 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:04.936 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:05.007 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:05.014 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:05.022 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:05.102 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:05.109 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:05.121 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:05.202 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:05.209 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:05.216 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:05.295 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:05.302 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:05.309 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:05.381 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:05.388 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:05.396 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:05.465 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:05.473 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:05.480 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:05.552 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:05.559 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:05.566 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:05.648 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:05.655 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:05.662 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:05.731 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:05.737 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:05.744 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:05.810 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:05.817 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:05.824 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:05.890 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:05.898 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:05.905 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:05.972 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:05.979 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:05.986 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:06.053 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:06.060 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:06.067 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:06.134 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:06.141 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:06.163 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:06.233 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:06.241 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:46:06.271 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5enrs_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                               6.52  ...                  0.664500
+2015-01-02                               6.53  ...                  0.664700
+2015-01-03                               6.53  ...                  0.662067
+2015-01-04                               6.53  ...                  0.659433
+2015-01-05                               6.53  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:46:06.275 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:46:06.295 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:46:06.298 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:46:06.313 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.9851211684664535
+2021-03-20 20:46:06.319 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 0.3935319209629963
+2021-03-20 20:46:06.322 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:46:06.328 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:46:06.329 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:46:06.331 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:07.392 | SUCCESS  | train.random_forest_regression:train_model:69 - score : -0.77809288490691
+2021-03-20 20:46:07.435 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 42.3629561703541
+2021-03-20 20:46:07.462 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:07.462 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:07.462 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/base/model.py:566: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  warnings.warn("Maximum Likelihood optimization failed to "
+2021-03-20 20:46:07.862 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.9044391258201557
+2021-03-20 20:46:07.864 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 25.204398110870027
+2021-03-20 20:46:07.875 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:07.876 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:07.881 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:07.929 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:07.933 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:07.937 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:07.982 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:07.986 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:07.990 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:08.034 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:08.038 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:08.042 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:08.086 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:08.090 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:08.094 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:08.140 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:08.144 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:08.148 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:08.192 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:08.196 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:08.200 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:08.244 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:08.248 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:08.252 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:08.296 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:08.300 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:08.304 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:08.348 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:08.352 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:08.356 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:08.400 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:08.404 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:08.408 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:08.453 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:08.456 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:08.460 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:08.504 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:08.509 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:08.513 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:08.557 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:08.561 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:08.565 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:08.609 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:08.615 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:08.620 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:08.664 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:08.668 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:08.672 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:08.716 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:08.720 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:08.724 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:08.768 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:08.772 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:08.776 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:08.819 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:08.823 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:08.827 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:08.873 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:08.876 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:08.880 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:08.925 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:08.928 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:08.932 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:08.977 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:08.981 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:08.985 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:09.029 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:09.033 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:09.037 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:09.081 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:09.085 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:09.089 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:09.134 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:09.138 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:09.141 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:09.186 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:09.190 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:09.194 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:09.238 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:09.242 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:09.246 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:09.294 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:09.298 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:09.302 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:09.346 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:09.350 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:09.354 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:09.398 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:09.402 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:09.406 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:09.450 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:09.454 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:09.458 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:09.504 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:09.508 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:46:09.527 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5hlth_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                           7.450000  ...                  0.664500
+2015-01-02                           7.450000  ...                  0.664700
+2015-01-03                           7.453333  ...                  0.662067
+2015-01-04                           7.456667  ...                  0.659433
+2015-01-05                           7.460000  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:46:09.527 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:46:09.535 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:46:09.536 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:46:09.546 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.9802041696412513
+2021-03-20 20:46:09.549 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 2.1041365441974835
+2021-03-20 20:46:09.550 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:46:09.550 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:46:09.550 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:46:09.551 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:10.286 | SUCCESS  | train.random_forest_regression:train_model:69 - score : 0.40548473502926474
+2021-03-20 20:46:10.331 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 58.33032045631624
+2021-03-20 20:46:10.358 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:10.359 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:10.359 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+2021-03-20 20:46:10.600 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.9373973188598651
+2021-03-20 20:46:10.602 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 31.185759775917735
+2021-03-20 20:46:10.613 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:10.614 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:10.619 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:10.666 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:10.670 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:10.674 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:10.718 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:10.723 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:10.727 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:10.771 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:10.775 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:10.779 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:10.836 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:10.840 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:10.846 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:10.915 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:10.921 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:10.928 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:10.999 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:11.005 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:11.011 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:11.085 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:11.090 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:11.096 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:11.172 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:11.179 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:11.187 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:11.261 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:11.269 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:11.276 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:11.354 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:11.361 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:11.368 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:11.451 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:11.455 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:11.460 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:11.531 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:11.536 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:11.541 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:11.610 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:11.616 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:11.622 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:11.693 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:11.701 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:11.712 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:11.800 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:11.807 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:11.814 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:11.885 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:11.892 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:11.898 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:11.966 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:11.973 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:11.979 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:12.046 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:12.053 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:12.060 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:12.127 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:12.145 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:12.152 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:12.221 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:12.228 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:12.235 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:12.302 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:12.309 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:12.316 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:12.384 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:12.391 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:12.399 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:12.470 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:12.477 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:12.485 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:12.556 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:12.563 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:12.570 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:12.661 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:12.686 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:12.696 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:12.777 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:12.783 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:12.789 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:12.862 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:12.868 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:12.874 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:12.948 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:12.954 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:12.960 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:13.030 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:13.036 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:13.042 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:13.115 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:13.121 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:13.127 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:13.198 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:13.205 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:46:13.234 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5cons_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                           8.070000  ...                  0.664500
+2015-01-02                           8.070000  ...                  0.664700
+2015-01-03                           8.066667  ...                  0.662067
+2015-01-04                           8.063333  ...                  0.659433
+2015-01-05                           8.060000  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:46:13.237 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:46:13.250 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:46:13.252 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:46:13.274 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.9469352471029452
+2021-03-20 20:46:13.280 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 1.6166368154956836
+2021-03-20 20:46:13.282 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:46:13.287 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:46:13.289 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:46:13.291 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:14.533 | SUCCESS  | train.random_forest_regression:train_model:69 - score : 0.7535054584041304
+2021-03-20 20:46:14.577 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 6.0742930334716405
+2021-03-20 20:46:14.602 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:14.603 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:14.603 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+2021-03-20 20:46:15.002 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.8124909976391677
+2021-03-20 20:46:15.003 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 7.391340736307982
+2021-03-20 20:46:15.015 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:15.016 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:15.021 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:15.068 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:15.072 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:15.076 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:15.121 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:15.125 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:15.129 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:15.174 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:15.178 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:15.182 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:15.226 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:15.230 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:15.234 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:15.278 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:15.282 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:15.286 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:15.331 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:15.335 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:15.339 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:15.402 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:15.406 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:15.410 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:15.456 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:15.459 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:15.463 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:15.508 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:15.512 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:15.516 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:15.561 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:15.565 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:15.569 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:15.614 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:15.618 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:15.621 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:15.666 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:15.670 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:15.674 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:15.719 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:15.723 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:15.727 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:15.772 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:15.776 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:15.779 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:15.824 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:15.828 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:15.832 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:15.877 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:15.880 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:15.884 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:15.929 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:15.933 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:15.937 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:15.981 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:15.985 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:15.990 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:16.039 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:16.043 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:16.047 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:16.092 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:16.096 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:16.100 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:16.145 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:16.149 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:16.153 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:16.199 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:16.203 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:16.207 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:16.252 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:16.256 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:16.260 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:16.305 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:16.309 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:16.313 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:16.357 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:16.361 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:16.365 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:16.410 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:16.414 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:16.418 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:16.463 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:16.467 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:16.472 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:16.517 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:16.521 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:16.525 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:16.571 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:16.575 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:16.579 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:16.624 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:16.628 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:16.632 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:16.678 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:16.683 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:46:16.701 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5cond_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                          13.210000  ...                  0.664500
+2015-01-02                          13.190000  ...                  0.664700
+2015-01-03                          13.176667  ...                  0.662067
+2015-01-04                          13.163333  ...                  0.659433
+2015-01-05                          13.150000  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:46:16.702 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:46:16.710 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:46:16.711 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:46:16.721 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.9757751405176468
+2021-03-20 20:46:16.725 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 0.9335765627685594
+2021-03-20 20:46:16.725 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:46:16.726 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:46:16.726 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:46:16.726 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:17.468 | SUCCESS  | train.random_forest_regression:train_model:69 - score : 0.7032019861659712
+2021-03-20 20:46:17.537 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 11.694261975274255
+2021-03-20 20:46:17.598 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:17.600 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:17.601 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+2021-03-20 20:46:18.158 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.9612527690052187
+2021-03-20 20:46:18.162 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 13.831847556927855
+2021-03-20 20:46:18.212 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:18.214 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:18.221 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:18.307 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:18.313 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:18.319 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:18.396 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:18.406 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:18.414 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:18.499 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:18.506 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:18.513 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:18.582 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:18.589 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:18.596 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:18.664 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:18.670 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:18.682 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:18.759 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:18.766 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:18.772 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:18.838 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:18.845 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:18.852 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:18.920 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:18.927 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:18.934 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:19.000 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:19.007 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:19.013 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:19.082 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:19.089 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:19.096 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:19.170 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:19.177 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:19.184 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:19.254 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:19.261 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:19.269 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:19.342 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:19.349 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:19.356 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:19.445 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:19.453 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:19.464 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:19.591 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:19.598 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:19.609 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:19.697 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:19.703 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:19.709 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:19.783 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:19.789 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:19.795 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:19.864 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:19.869 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:19.875 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:19.949 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:19.955 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:19.960 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:20.027 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:20.032 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:20.038 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:20.146 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:20.155 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:20.164 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:20.260 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:20.268 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:20.275 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:20.348 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:20.355 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:20.362 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:20.433 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:20.440 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:20.447 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:20.521 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:20.528 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:20.535 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:20.619 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:20.626 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:20.635 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:20.721 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:20.728 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:20.734 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:20.808 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:20.815 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:20.822 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:20.893 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:20.900 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:20.907 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:20.977 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:20.984 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:20.991 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:21.067 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:21.074 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:46:21.104 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5indu_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                           9.960000  ...                  0.664500
+2015-01-02                           9.960000  ...                  0.664700
+2015-01-03                           9.976667  ...                  0.662067
+2015-01-04                           9.993333  ...                  0.659433
+2015-01-05                          10.010000  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:46:21.108 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:46:21.128 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:46:21.131 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:46:21.146 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.9995548947772575
+2021-03-20 20:46:21.153 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 0.008776423831952132
+2021-03-20 20:46:21.156 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:46:21.163 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:46:21.169 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:46:21.171 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:22.378 | SUCCESS  | train.random_forest_regression:train_model:69 - score : 0.47920556617563204
+2021-03-20 20:46:22.423 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 10.212007927142102
+2021-03-20 20:46:22.450 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:22.450 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:22.450 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+2021-03-20 20:46:22.700 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.8101543485188285
+2021-03-20 20:46:22.701 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 8.987965541804863
+2021-03-20 20:46:22.712 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:22.713 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:22.718 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:22.764 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:22.768 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:22.772 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:22.824 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:22.828 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:22.831 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:22.876 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:22.880 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:22.884 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:22.929 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:22.933 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:22.937 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:22.982 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:22.986 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:22.990 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:23.033 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:23.037 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:23.041 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:23.085 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:23.089 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:23.093 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:23.137 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:23.141 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:23.146 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:23.193 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:23.197 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:23.201 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:23.246 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:23.251 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:23.254 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:23.298 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:23.303 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:23.306 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:23.350 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:23.354 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:23.358 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:23.404 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:23.408 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:23.412 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:23.455 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:23.459 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:23.463 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:23.507 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:23.511 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:23.515 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:23.559 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:23.563 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:23.567 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:23.612 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:23.617 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:23.621 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:23.665 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:23.669 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:23.673 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:23.718 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:23.722 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:23.726 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:23.772 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:23.776 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:23.780 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:23.825 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:23.829 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:23.834 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:23.885 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:23.889 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:23.894 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:23.941 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:23.945 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:23.949 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:23.995 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:23.999 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:24.003 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:24.050 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:24.054 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:24.058 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:24.103 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:24.107 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:24.111 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:24.157 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:24.161 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:24.165 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:24.209 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:24.213 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:24.217 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:24.261 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:24.265 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:24.269 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:24.313 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:24.317 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:24.322 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:24.373 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:24.377 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:46:24.396 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5util_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                           5.490000  ...                  0.664500
+2015-01-02                           5.500000  ...                  0.664700
+2015-01-03                           5.493333  ...                  0.662067
+2015-01-04                           5.486667  ...                  0.659433
+2015-01-05                           5.480000  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:46:24.397 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:46:24.405 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:46:24.405 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:46:24.416 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.8584533795328226
+2021-03-20 20:46:24.419 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 0.8912137136348702
+2021-03-20 20:46:24.419 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:46:24.420 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:46:24.420 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:46:24.421 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:25.168 | SUCCESS  | train.random_forest_regression:train_model:69 - score : -1.154788379799315
+2021-03-20 20:46:25.214 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 11.173544665851447
+2021-03-20 20:46:25.241 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:25.241 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:25.241 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+2021-03-20 20:46:25.506 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.9650363733758782
+2021-03-20 20:46:25.507 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 3.5354113985993822
+2021-03-20 20:46:25.519 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:25.519 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:25.524 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:25.576 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:25.580 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:25.584 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:25.628 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:25.632 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:25.637 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:25.682 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:25.686 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:25.690 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:25.793 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:25.797 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:25.801 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:25.845 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:25.849 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:25.854 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:25.898 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:25.903 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:25.907 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:25.951 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:25.955 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:25.959 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:26.008 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:26.011 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:26.016 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:26.060 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:26.064 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:26.068 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:26.112 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:26.116 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:26.120 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:26.189 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:26.193 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:26.198 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:26.266 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:26.272 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:26.278 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:26.353 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:26.360 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:26.366 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:26.437 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:26.444 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:26.451 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:26.525 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:26.533 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:26.540 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:26.616 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:26.623 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:26.629 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:26.702 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:26.709 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:26.717 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:26.790 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:26.797 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:26.804 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:26.878 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:26.885 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:26.892 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:26.991 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:27.000 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:27.008 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:27.088 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:27.097 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:27.104 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:27.173 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:27.180 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:27.186 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:27.253 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:27.259 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:27.266 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:27.332 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:27.338 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:27.345 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:27.411 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:27.418 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:27.424 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:27.490 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:27.497 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:27.503 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:27.570 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:27.577 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:27.584 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:27.650 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:27.657 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:27.664 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:27.734 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:27.741 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:27.748 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:27.820 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:27.826 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:27.834 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:27.909 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:27.916 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:46:27.946 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5tels_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                              14.75  ...                  0.664500
+2015-01-02                              14.66  ...                  0.664700
+2015-01-03                              14.58  ...                  0.662067
+2015-01-04                              14.50  ...                  0.659433
+2015-01-05                              14.42  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:46:27.950 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:46:27.977 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:46:27.980 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:46:28.000 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.9924592530322568
+2021-03-20 20:46:28.008 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 0.010413782103975852
+2021-03-20 20:46:28.011 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:46:28.025 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:46:28.028 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:46:28.032 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:29.293 | SUCCESS  | train.random_forest_regression:train_model:69 - score : 0.9513816963365693
+2021-03-20 20:46:29.450 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 0.06054104553166244
+2021-03-20 20:46:29.542 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:29.544 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:29.550 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+2021-03-20 20:46:29.934 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.8523457625372333
+2021-03-20 20:46:29.936 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 0.961688230076028
+2021-03-20 20:46:29.949 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:29.950 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:29.955 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:30.006 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:30.010 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:30.014 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:30.061 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:30.065 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:30.069 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:30.116 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:30.120 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:30.124 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:30.168 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:30.172 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:30.176 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:30.222 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:30.226 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:30.230 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:30.276 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:30.280 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:30.284 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:30.329 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:30.334 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:30.338 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:30.383 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:30.387 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:30.390 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:30.435 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:30.438 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:30.442 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:30.488 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:30.492 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:30.496 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:30.540 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:30.544 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:30.548 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:30.592 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:30.596 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:30.600 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:30.645 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:30.649 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:30.653 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:30.709 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:30.713 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:30.717 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:30.761 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:30.765 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:30.769 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:30.813 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:30.817 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:30.821 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:30.866 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:30.870 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:30.874 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:30.918 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:30.922 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:30.926 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:30.970 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:30.974 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:30.978 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:31.023 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:31.027 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:31.031 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:31.075 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:31.079 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:31.083 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:31.127 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:31.131 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:31.135 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:31.180 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:31.184 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:31.188 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:31.232 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:31.236 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:31.240 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:31.285 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:31.289 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:31.293 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:31.338 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:31.342 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:31.345 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:31.390 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:31.394 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:31.397 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:31.441 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:31.445 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:31.449 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:31.492 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:31.496 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:31.500 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:31.545 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:31.548 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:31.553 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:31.600 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:31.604 | INFO     | __main__:main:105 - new clean data shape: (2248, 12)
+2021-03-20 20:46:31.622 | INFO     | __main__:main:111 - iteration 0. data shape: (180, 12), head:
+            bb:s5matr_index:est_ltg_eps_aggte  ...  bb:usgg2yr_index:px_last
+date                                           ...                          
+2015-01-01                           9.770000  ...                  0.664500
+2015-01-02                           9.790000  ...                  0.664700
+2015-01-03                           9.803333  ...                  0.662067
+2015-01-04                           9.816667  ...                  0.659433
+2015-01-05                           9.830000  ...                  0.656800
+
+[5 rows x 12 columns]
+2021-03-20 20:46:31.623 | SUCCESS  | operations.run_operations:_run_operations:73 - done with all operations
+2021-03-20 20:46:31.630 | INFO     | train.linear_regression:train_model:44 - 
+
+INITIATING LINEAR REGRESSION
+
+2021-03-20 20:46:31.631 | INFO     | train.linear_regression:train_model:45 - Creating ModelType.linear_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/sklearn/utils/validation.py:67: FutureWarning: Pass fit_intercept={'fit_intercept': True, 'normalize': True, 'n_jobs': -1} as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  warnings.warn("Pass {} as keyword args. From version 0.25 "
+2021-03-20 20:46:31.642 | SUCCESS  | train.linear_regression:train_model:70 - r^2 score: 0.7429614882343352
+2021-03-20 20:46:31.645 | SUCCESS  | train.linear_regression:train_model:74 - mean squared error: 4.049103670797303
+2021-03-20 20:46:31.646 | SUCCESS  | train.linear_regression:train_model:78 - 
+2021-03-20 20:46:31.646 | SUCCESS  | train.linear_regression:train_model:84 - Model successfully saved to disk
+2021-03-20 20:46:31.646 | INFO     | train.random_forest_regression:train_model:43 - 
+
+INITIATING RANDOM FOREST REGRESSION
+
+2021-03-20 20:46:31.647 | INFO     | train.random_forest_regression:train_model:44 - Creating ModelType.random_forest model for test_project.csv
+2021-03-20 20:46:32.375 | SUCCESS  | train.random_forest_regression:train_model:69 - score : 0.7106732455698348
+2021-03-20 20:46:32.420 | SUCCESS  | train.random_forest_regression:train_model:73 - MSE : 3.8824692760609274
+2021-03-20 20:46:32.446 | SUCCESS  | train.random_forest_regression:train_model:79 - Model successfully saved to disk
+2021-03-20 20:46:32.446 | INFO     | train.arima_regression:train_model:48 - 
+
+INITIATING ARIMA REGRESSION
+
+2021-03-20 20:46:32.446 | INFO     | train.arima_regression:train_model:49 - Creating ModelType.arima_regression model for test_project.csv
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+/home/ubuntu/anaconda3/envs/ssmif_factor_model/lib/python3.8/site-packages/statsmodels/tsa/base/tsa_model.py:524: ValueWarning: No frequency information was provided, so inferred frequency D will be used.
+  warnings.warn('No frequency information was'
+2021-03-20 20:46:32.760 | SUCCESS  | train.arima_regression:train_model:66 - r^2 score: 0.9167497269843073
+2021-03-20 20:46:32.761 | SUCCESS  | train.arima_regression:train_model:70 - mean squared error: 4.606968298851392
+2021-03-20 20:46:32.772 | SUCCESS  | train.arima_regression:train_model:76 - Model successfully saved to disk
+2021-03-20 20:46:32.772 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:32.777 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:32.823 | INFO     | predict.predict:predict:65 - predicting for 2015-05-30 00:00:00
+2021-03-20 20:46:32.827 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:32.831 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:32.877 | INFO     | predict.predict:predict:65 - predicting for 2015-05-31 00:00:00
+2021-03-20 20:46:32.881 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:32.885 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:32.930 | INFO     | predict.predict:predict:65 - predicting for 2015-06-01 00:00:00
+2021-03-20 20:46:32.934 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:32.938 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:32.983 | INFO     | predict.predict:predict:65 - predicting for 2015-06-02 00:00:00
+2021-03-20 20:46:32.987 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:32.992 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:33.037 | INFO     | predict.predict:predict:65 - predicting for 2015-06-03 00:00:00
+2021-03-20 20:46:33.041 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:33.045 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:33.090 | INFO     | predict.predict:predict:65 - predicting for 2015-06-04 00:00:00
+2021-03-20 20:46:33.093 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:33.097 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:33.142 | INFO     | predict.predict:predict:65 - predicting for 2015-06-05 00:00:00
+2021-03-20 20:46:33.146 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:33.150 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:33.194 | INFO     | predict.predict:predict:65 - predicting for 2015-06-06 00:00:00
+2021-03-20 20:46:33.198 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:33.202 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:33.247 | INFO     | predict.predict:predict:65 - predicting for 2015-06-07 00:00:00
+2021-03-20 20:46:33.251 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:33.254 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:33.299 | INFO     | predict.predict:predict:65 - predicting for 2015-06-08 00:00:00
+2021-03-20 20:46:33.303 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:33.307 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:33.352 | INFO     | predict.predict:predict:65 - predicting for 2015-06-09 00:00:00
+2021-03-20 20:46:33.356 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:33.360 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:33.405 | INFO     | predict.predict:predict:65 - predicting for 2015-06-10 00:00:00
+2021-03-20 20:46:33.409 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:33.413 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:33.458 | INFO     | predict.predict:predict:65 - predicting for 2015-06-11 00:00:00
+2021-03-20 20:46:33.462 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:33.466 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:33.510 | INFO     | predict.predict:predict:65 - predicting for 2015-06-12 00:00:00
+2021-03-20 20:46:33.514 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:33.518 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:33.562 | INFO     | predict.predict:predict:65 - predicting for 2015-06-13 00:00:00
+2021-03-20 20:46:33.567 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:33.571 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:33.615 | INFO     | predict.predict:predict:65 - predicting for 2015-06-14 00:00:00
+2021-03-20 20:46:33.619 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:33.623 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:33.668 | INFO     | predict.predict:predict:65 - predicting for 2015-06-15 00:00:00
+2021-03-20 20:46:33.672 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:33.676 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:33.720 | INFO     | predict.predict:predict:65 - predicting for 2015-06-16 00:00:00
+2021-03-20 20:46:33.724 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:33.728 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:33.793 | INFO     | predict.predict:predict:65 - predicting for 2015-06-17 00:00:00
+2021-03-20 20:46:33.797 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:33.802 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:33.870 | INFO     | predict.predict:predict:65 - predicting for 2015-06-18 00:00:00
+2021-03-20 20:46:33.875 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:33.880 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:33.949 | INFO     | predict.predict:predict:65 - predicting for 2015-06-19 00:00:00
+2021-03-20 20:46:33.953 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:33.958 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:34.026 | INFO     | predict.predict:predict:65 - predicting for 2015-06-20 00:00:00
+2021-03-20 20:46:34.031 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:34.036 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:34.107 | INFO     | predict.predict:predict:65 - predicting for 2015-06-21 00:00:00
+2021-03-20 20:46:34.111 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:34.117 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:34.186 | INFO     | predict.predict:predict:65 - predicting for 2015-06-22 00:00:00
+2021-03-20 20:46:34.191 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:34.196 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:34.268 | INFO     | predict.predict:predict:65 - predicting for 2015-06-23 00:00:00
+2021-03-20 20:46:34.274 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:34.280 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:34.350 | INFO     | predict.predict:predict:65 - predicting for 2015-06-24 00:00:00
+2021-03-20 20:46:34.356 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:34.362 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:34.433 | INFO     | predict.predict:predict:65 - predicting for 2015-06-25 00:00:00
+2021-03-20 20:46:34.438 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:34.445 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:34.513 | INFO     | predict.predict:predict:65 - predicting for 2015-06-26 00:00:00
+2021-03-20 20:46:34.519 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:34.525 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:34.595 | INFO     | predict.predict:predict:65 - predicting for 2015-06-27 00:00:00
+2021-03-20 20:46:34.600 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:34.606 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:34.676 | INFO     | predict.predict:predict:65 - predicting for 2015-06-28 00:00:00
+2021-03-20 20:46:34.685 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:34.692 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+2021-03-20 20:46:34.770 | INFO     | predict.predict:predict:65 - predicting for 2015-06-29 00:00:00
+Windwo
+{'start_date': datetime.date(2015, 1, 1), 'end_date': datetime.date(2021, 2, 25)}
+Traceback (most recent call last):
+  File "./src/main.py", line 234, in <module>
+    main()
+  File "./src/main.py", line 127, in main
+    optimizer.run_optimization(current_all_predictions)
+  File "/home/ubuntu/environment/SSMIF-Quant-Risk-Screen/flaskr/FactorModel/src/predict/black_litterman.py", line 97, in run_optimization
+    mcaps[sector] = self.sector_data[sector].clean_data.data[col.normalize_colname()].iloc[-1]
+AttributeError: 'Sector' object has no attribute 'clean_data'
