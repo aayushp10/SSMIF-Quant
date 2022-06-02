@@ -1,0 +1,4 @@
+# ssmif sdk
+git+ssh://git@github.com/SSMIF-Quant/quant.git@main#subdirectory=sdk
+# lambda stuff
+awslambdaric>=1.0.0
